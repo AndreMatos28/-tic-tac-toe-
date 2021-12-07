@@ -8,9 +8,13 @@
     <title>Tic tac toe</title>
 </head>
 <body></body>
-<h1>Tic tac toe</h1>
+<h1>Jogo da velha</h1>
 
+<div class=init>
+    <input type="button" class="button" value="Começar" onclick="init()">
+</div>
 <div class="stage">
+    <h1 id="h1"> </h1>
     <div>
         <div id="0" class="square"></div>
         <div id="1" class="square"></div>
@@ -26,6 +30,7 @@
         <div id="7" class="square"></div>
         <div id="8" class="square"></div>
     </div>
+    <input type="button" class="button2" value="Reiniciar" onclick="reset()">
 </div>
 
 
