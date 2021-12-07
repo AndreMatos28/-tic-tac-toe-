@@ -4,7 +4,7 @@
 
 # :blue_book: TIC TAC TOE (Jogo da velha)
 
-![](Assets/tic-tac-toe.gif)
+![](assets/tic-tac-toe.gif)
 
 
 ## Sobre o projeto
