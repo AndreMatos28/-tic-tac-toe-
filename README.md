@@ -8,7 +8,7 @@
 
 
 ## Sobre o projeto
-
+Jogar https://andrematos28.github.io/tic-tac-toe-/
 ---
 
 Jogo da velha para pratica de HTML - CSS -JavaScript.
